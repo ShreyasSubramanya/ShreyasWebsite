@@ -26,3 +26,4 @@
 /Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Release/net9.0/ShreyasWebsite.pdb
 /Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Release/net9.0/ShreyasWebsite.genruntimeconfig.cache
 /Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Release/net9.0/ref/ShreyasWebsite.dll
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Release/net9.0/ShreyasWebsite.sourcelink.json

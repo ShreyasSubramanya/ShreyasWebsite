@@ -1,0 +1,6 @@
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Debug/net9.0/ShreyasWebsite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Debug/net9.0/ShreyasWebsite.AssemblyInfoInputs.cache
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Debug/net9.0/ShreyasWebsite.AssemblyInfo.cs
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Debug/net9.0/ShreyasWebsite.csproj.CoreCompileInputs.cache
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Debug/net9.0/ShreyasWebsite.MvcApplicationPartsAssemblyInfo.cache
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/obj/Debug/net9.0/ShreyasWebsite.sourcelink.json

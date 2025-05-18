@@ -1,0 +1,7 @@
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/publish/ShreyasWebsite
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/publish/appsettings.Development.json
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/publish/appsettings.json
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/publish/ShreyasWebsite.dll
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/publish/ShreyasWebsite.deps.json
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/publish/ShreyasWebsite.runtimeconfig.json
+/Users/shreyassubramanya/ShreyasApp1/ShreyasWebsite/publish/ShreyasWebsite.pdb
